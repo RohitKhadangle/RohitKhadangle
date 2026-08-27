@@ -1,57 +1,74 @@
-<h1 align="center">Hi 👋, I'm Rohit Khadangle</h1>
+<h1 align="center">Hi there, I'm Rohit Khadangle 👋</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="180"/>
+</p>
+
 <h3 align="center">🚀 Aspiring Cloud & DevOps Engineer | AWS Enthusiast | Automation Lover</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Skills+in+Cloud+%26+DevOps;Hands-on+with+AWS+Services;Automating+Everything+with+CI%2FCD;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Building+Skills+in+Cloud+%26+DevOps;Hands-on+with+AWS+Services;Automating+Everything+with+CI%2FCD;Deploying%2C+Scaling%2C+Learning...;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RohitKhadangle&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RohitKhadangle&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" alt="Open to Work" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 </p>
 
 ---
 
 ### 🌟 About Me
 
-- 🎓 Aspiring **Cloud & DevOps Engineer**, actively building hands-on skills
-- ☁️ Working with **AWS core services** — compute, storage, networking & security
-- ⚙️ Interested in **automation, CI/CD pipelines, and scalable infrastructure**
-- 📚 Continuously learning through real-world projects and labs
-- 💼 **Currently open to Cloud/DevOps internship & entry-level opportunities**
+```yaml
+name: Rohit Khadangle
+role: Aspiring Cloud & DevOps Engineer
+focus: AWS | Automation | CI/CD | Scalable Infrastructure
+currently_learning: Docker, Kubernetes, Terraform
+status: Open to Cloud/DevOps internships & entry-level roles 🚀
+fun_fact: I automate things so I don't have to do them twice 😄
+```
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Tech Stack
 
-**☁️ Cloud (AWS)**
-`EC2` `S3` `RDS` `VPC` `IAM (Users, Groups, Roles)` `Auto Scaling & Load Balancer` `CloudWatch`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,git,github,linux,bash,html,css,python,docker&theme=dark" />
+</p>
 
-**⚙️ DevOps Tools**
-`Git & GitHub` `CI/CD Concepts` `Docker (Basics)` `Linux` `Shell Scripting`
-
-**💻 Programming & Web**
-`HTML` `CSS` `Python (Basics)` `Bash`
+**☁️ Cloud (AWS)** &nbsp; `EC2` `S3` `RDS` `VPC` `IAM` `Auto Scaling & Load Balancer` `CloudWatch`
+**⚙️ DevOps** &nbsp; `Git & GitHub` `CI/CD Concepts` `Docker (Basics)` `Linux` `Shell Scripting`
+**💻 Programming & Web** &nbsp; `HTML` `CSS` `Python (Basics)` `Bash`
 
 ---
 
 ### 🌐 Portfolio
 
-📁 **My Portfolio:** [rohit-khadangle.github.io](https://rohit-khadangle.github.io/)
-
-- Showcases my projects, skills, and learning journey
-- Includes Cloud & DevOps-based implementations
+📁 **[rohit-khadangle.github.io](https://rohit-khadangle.github.io/)** — projects, skills & learning journey, with Cloud & DevOps implementations.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohitKhadangle&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RohitKhadangle&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitKhadangle&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitKhadangle&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitKhadangle&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RohitKhadangle&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
@@ -60,16 +77,18 @@
 
 <p align="center">
   <a href="https://rohit-khadangle.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="[https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white](https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet)" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="rohitkhadangle2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/rohit-khadangle-7b1519257/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/e620ba8d-1cbd-42f4-b53e-e35c0492fda1.gif" width="450">
+</p>
 
 <p align="center"><i>⭐️ Thanks for visiting my profile! Feel free to explore my repositories.</i></p>
