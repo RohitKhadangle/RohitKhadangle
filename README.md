@@ -48,41 +48,23 @@ fun_fact: I automate things so I don't have to do them twice 😄
 
 ### 🌐 Portfolio
 
-📁 **<a href="https://rohit-khadangle.github.io/" target="_blank">rohit-khadangle.github.io</a>** — projects, skills & learning journey, with Cloud & DevOps implementations.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohitKhadangle&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitKhadangle&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitKhadangle&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitKhadangle&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RohitKhadangle&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
+📁 **<a href="https://rohitkhadangle.github.io/rohit-khadangle.github.io/" target="_blank">rohitkhadangle.github.io</a>** — projects, skills & learning journey, with Cloud & DevOps implementations.
 
 ---
 
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://rohit-khadangle.github.io/" target="_blank">
+  <a href="https://rohitkhadangle.github.io/rohit-khadangle.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:rohitkhadangle2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://github.com/RohitKhadangle" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rohit-khadangle-7b1519257/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
