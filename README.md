@@ -48,7 +48,7 @@ fun_fact: I automate things so I don't have to do them twice 😄
 
 ### 🌐 Portfolio
 
-📁 **[rohit-khadangle.github.io](https://rohit-khadangle.github.io/)** — projects, skills & learning journey, with Cloud & DevOps implementations.
+📁 **<a href="https://rohit-khadangle.github.io/" target="_blank">rohit-khadangle.github.io</a>** — projects, skills & learning journey, with Cloud & DevOps implementations.
 
 ---
 
@@ -77,12 +77,12 @@ fun_fact: I automate things so I don't have to do them twice 😄
 
 <p align="center">
   <a href="https://rohit-khadangle.github.io/" target="_blank">
-    <img src="[https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white](https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet)" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="rohitkhadangle2004@gmail.com">
+  <a href="mailto:youremail@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/rohit-khadangle-7b1519257/" target="_blank">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
