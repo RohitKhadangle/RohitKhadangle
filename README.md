@@ -24,12 +24,11 @@
 ### 🌟 About Me
 
 ```yaml
-name: Rohit Khadangle
-role: Aspiring Cloud & DevOps Engineer
-focus: AWS | Automation | CI/CD | Scalable Infrastructure
-currently_learning: Docker, Kubernetes, Terraform
-status: Open to Cloud/DevOps internships & entry-level roles 🚀
-fun_fact: I automate things so I don't have to do them twice 😄
+- 🎓 Aspiring **Cloud & DevOps Engineer**, actively building hands-on skills
+- ☁️ Working with **AWS core services** — compute, storage, networking & security
+- ⚙️ Interested in **automation, CI/CD pipelines, and scalable infrastructure**
+- 📚 Continuously learning through real-world projects and labs
+- 💼 **Currently open to Cloud/DevOps internship & entry-level opportunities**
 ```
 
 ---
@@ -41,7 +40,7 @@ fun_fact: I automate things so I don't have to do them twice 😄
 </p>
 
 **☁️ Cloud (AWS)** &nbsp; `EC2` `S3` `RDS` `VPC` `IAM` `Auto Scaling & Load Balancer` `CloudWatch`
-**⚙️ DevOps** &nbsp; `Git & GitHub` `CI/CD Concepts` `Docker (Basics)` `Linux` `Shell Scripting`
+**⚙️ DevOps** &nbsp; `Git & GitHub` `CI/CD Concepts` `Docker (Basics)` `Linux` `Shell Scripting` `Kubernetes` `Networking` `Monitoring` `CI/CD` `Scripting`
 **💻 Programming & Web** &nbsp; `HTML` `CSS` `Python (Basics)` `Bash`
 
 ---
